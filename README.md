@@ -22,6 +22,7 @@ Management suspects that some employees may be using TOR browsers to bypass netw
 - **Check `DeviceNetworkEvents`** for any signs of outgoing connections over known TOR ports.
 
 ---
+<img width="500" height="500" alt="Screenshot 2025-11-17 115744" src="https://github.com/user-attachments/assets/032eb1fa-b959-4c81-bc0b-5b58ff53ab97" />
 
 ## Steps Taken
 
