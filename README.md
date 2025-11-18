@@ -44,6 +44,8 @@ DeviceFileEvents
 <img width="1212" alt="image" src="https://github.com/user-attachments/assets/71402e84-8767-44f8-908c-1805be31122d">
 
 ---
+![signal-2025-11-17-211752_002](https://github.com/user-attachments/assets/5a274072-e9aa-4fd3-bffe-648827abd4b2)
+
 
 ### 2. Searched the `DeviceProcessEvents` Table
 
@@ -97,6 +99,7 @@ DeviceNetworkEvents
 <img width="1212" alt="image" src="https://github.com/user-attachments/assets/87a02b5b-7d12-4f53-9255-f5e750d0e3cb">
 
 ---
+<img width="1038" height="564" alt="Screenshot 2025-11-17 205624" src="https://github.com/user-attachments/assets/2d928a70-beb7-46c8-97ca-f8576b36b947" />
 
 ## Chronological Event Timeline 
 
@@ -146,6 +149,7 @@ DeviceNetworkEvents
 - **File Path:** `C:\Users\employee\Desktop\tor-shopping-list.txt`
 
 ---
+<img width="856" height="860" alt="image" src="https://github.com/user-attachments/assets/ba918122-9901-40f5-a9a0-3426eefcbe60" />
 
 ## Summary
 
